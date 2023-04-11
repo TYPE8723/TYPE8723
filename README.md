@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TYPE8723
+- 👋 Hi, I’m Alen
 - 👀 I’m interested in Software devlopment with python and many other languages
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PYTHON and trying out some stuf by my own. if you find any bugs in my public project please let me know
+- 💞️ I’m looking to collaborate on scaling web projects
 - 📫 How to reach me alensebastian65@gmail.com
 
 <!---
